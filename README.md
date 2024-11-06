@@ -26,7 +26,6 @@ https://pypi.org/project/frame-sdk/
 - **BrainFlow** (EEG data processing)  
 https://brainflow.org/  
 - **PyQt5** & **PyQtGraph** (EEG data plotting on desktop, optional)
-
 https://www.pyqtgraph.org/
 - **asyncio, numpy**  
 
