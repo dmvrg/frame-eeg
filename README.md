@@ -31,8 +31,20 @@ https://brainflow.org/
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
+1. Clone this repository:
+    
+    ```bash
+    git clone https://github.com/dmvrg/frame-eeg.git
+    ```
+    
+2. Install dependencies:
+    
+    ```bash
+    pip install numpy brainflow frame-sdk pyqt5 pyqtgraph 
+    ```
+    
+3. Run 
+`frame_eeg-basic.py` : direct stream to Frame (no desktop visualization)
+`frame_eeg-pyqtgrph.py`  : stream and additional visualization on desktop with PyQtGraph
 
 
