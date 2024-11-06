@@ -1,6 +1,6 @@
 # frame-eeg
 
-Simple integration of Muse EEG headbands with Brilliant Labs’ Frame AI glasses
+Simple integration of Brilliant Labs’ Frame AI glasses with Muse EEG headbands  
 
 ![Devices](assets/devices.jpg)
 
