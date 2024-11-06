@@ -47,4 +47,13 @@ https://brainflow.org/
 `frame_eeg-basic.py` : direct stream to Frame (no desktop visualization)
 `frame_eeg-pyqtgrph.py`  : stream and additional visualization on desktop with PyQtGraph
 
+## Mental States
 
+The mental states are calculated based on EEG band power ratios and logarithmic transformations.
+
+- **Relaxation (Alpha/Beta)**: Calculated using the ratio of Alpha to Beta band powers, transformed logarithmically to emphasize Alpha dominance, which is associated with relaxation.
+- **Focus (Beta/Theta)**: Derived from the ratio of Beta to Theta band powers, with a logarithmic adjustment, as increased Beta relative to Theta often correlates with focused attention.
+- **Stress (Beta/Alpha + Gamma)**: Determined using a combination of Beta and Gamma relative to Alpha, with an additional logarithmic transformation to capture increased arousal typically linked to stress.
+- **Drowsiness (Delta/Alpha)**: Based on the ratio of Delta to Alpha band powers, logarithmically transformed to highlight increased Delta, which can indicate drowsiness or low alertness.
+
+  
