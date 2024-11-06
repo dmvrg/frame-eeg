@@ -52,7 +52,7 @@ https://www.pyqtgraph.org/
 
 ## Mental States
 
-The mental states in the demo are calculated based on EEG band power ratios and logarithmic transformations.
+The mental states in the demo are just calculated based on EEG band power ratios and logarithmic transformations.
 
 - **Relaxation (Alpha/Beta)**: Calculated using the ratio of Alpha to Beta band powers, transformed logarithmically to emphasize Alpha dominance, which is associated with relaxation.
 - **Focus (Beta/Theta)**: Derived from the ratio of Beta to Theta band powers, with a logarithmic adjustment, as increased Beta relative to Theta often correlates with focused attention.
