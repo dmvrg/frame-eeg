@@ -6,7 +6,7 @@ Brilliant Labs' Frame AI glasses test with Muse EEG headbands
 
 This simple proof-of-concept test provides real-time EEG band power (Delta, Theta, Alpha, Beta, Gamma waves) and mental state values (Relaxation, Focus, Stress, and Drowsiness), displayed directly on the Frame AI glasses using BrainFlow, with additional desktop visualization via PyQtGraph.
 
-During streaming, users can toggle between viewing band powers and mental state estimations with a single tap on the temple of the glasses. This basic setup provides both wearable and desktop interfaces for real-time cognitive state monitoring.
+During streaming, the user can toggle between viewing band powers and mental state estimations with a single tap on the temple of the glasses. This basic setup provides both wearable and desktop interfaces for real-time cognitive state monitoring.
 
 ## Hardware
 
