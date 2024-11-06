@@ -4,7 +4,7 @@ Simple integration of Brilliant Labs’ Frame AI glasses with Muse EEG headbands
 
 ![Devices](assets/devices.jpg)
 
-This project provides real-time EEG band power (Alpha, Beta, Delta, Gamma, Theta waves) and mental state values (Relaxation, Focus, Stress, and Drowsiness) displayed directly on the Frame AI glasses using BrainFlow, with additional desktop visualization via PyQtGraph.
+This project provides real-time EEG band power (Delta, Theta, Alpha, Beta, Gamma waves) and mental state values (Relaxation, Focus, Stress, and Drowsiness) displayed directly on the Frame AI glasses using BrainFlow, with additional desktop visualization via PyQtGraph.
 
 During streaming, users can toggle between viewing band powers and mental state estimations with a single tap on the temple of the glasses. This basic setup provides both wearable and desktop interfaces for real-time cognitive state monitoring.
 
@@ -44,7 +44,7 @@ https://www.pyqtgraph.org/
     pip install numpy brainflow frame-sdk pyqt5 pyqtgraph 
     ```
     
-3. Run  
+3. Run:  
 `frame_eeg-basic.py` : direct stream to Frame (no desktop visualization)  
 `frame_eeg-pyqtgrph.py`  : stream and additional visualization on desktop with PyQtGraph
 
