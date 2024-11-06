@@ -10,7 +10,7 @@ During streaming, users can toggle between viewing band powers and mental state 
 
 ## Hardware
 
-- **Muse EEG headset ***
+- **Muse EEG headset **
 https://choosemuse.com/
 - **Brilliant Labs’ Frame AI glasses**
 https://brilliant.xyz/
