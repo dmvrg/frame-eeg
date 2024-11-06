@@ -45,7 +45,7 @@ https://www.pyqtgraph.org/
     ```
     
 3. Run 
-`frame_eeg-basic.py` : direct stream to Frame (no desktop visualization)
+`frame_eeg-basic.py` : direct stream to Frame (no desktop visualization)  
 `frame_eeg-pyqtgrph.py`  : stream and additional visualization on desktop with PyQtGraph
 
 ## Mental States
