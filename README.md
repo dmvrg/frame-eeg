@@ -10,8 +10,7 @@ During streaming, users can toggle between viewing band powers and mental state 
 
 ## Hardware
 
-- **Muse EEG headset**
-    
+- **Muse EEG headset**    
   https://choosemuse.com/  
 - **Brilliant Labs’ Frame AI glasses**  
 https://brilliant.xyz/  
@@ -57,4 +56,11 @@ The mental states are calculated based on EEG band power ratios and logarithmic 
 - **Stress (Beta/Alpha + Gamma)**: Determined using a combination of Beta and Gamma relative to Alpha, with an additional logarithmic transformation to capture increased arousal typically linked to stress.
 - **Drowsiness (Delta/Alpha)**: Based on the ratio of Delta to Alpha band powers, logarithmically transformed to highlight increased Delta, which can indicate drowsiness or low alertness.
 
+
+- **Spontaneous Alpha and Theta Oscillations Are Related to Complementary Aspects of Cognitive Control in Younger and Older Adults**    
+    https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.621620/full
+- **Stress Identification during Sustained Mental Task and Brain Relaxation Modeling with β/α Band Power Ratio**
+https://ieeexplore.ieee.org/abstract/document/9068748
+- **EEG theta/beta ratio as a potential biomarker for attentional control and resilience against deleterious effects of stress on attention**
+    https://link.springer.com/article/10.3758/s13415-013-0238-7
   
