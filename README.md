@@ -11,13 +11,23 @@ During streaming, users can toggle between viewing band powers and mental state 
 ## Hardware
 
 - **Muse EEG headset**
-[Link Text](https://choosemuse.com/)
-
+https://choosemuse.com/  
 - **Brilliant Labs’ Frame AI glasses**  
 https://brilliant.xyz/  
 https://docs.brilliant.xyz/  
 
 Tested with Muse 2 and Muse S; theoretically compatible with any EEG device supported by BrainFlow's board-agnostic API.
+
+## Dependencies
+
+- **Python 3.8+**
+- **Frame SDK** (SDK for Frame AI glasses)  
+https://pypi.org/project/frame-sdk/  
+- **BrainFlow** (EEG data processing)  
+https://brainflow.org/  
+- **PyQt5** & **PyQtGraph** (EEG data plotting on desktop, optional)  
+- **asyncio, numpy, collections**  
+
 
 ## Installation
 
