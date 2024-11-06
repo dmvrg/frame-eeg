@@ -25,7 +25,8 @@ Tested with Muse 2 and Muse S; theoretically compatible with any EEG device supp
 https://pypi.org/project/frame-sdk/  
 - **BrainFlow** (EEG data processing)  
 https://brainflow.org/  
-- **PyQt5** & **PyQtGraph** (EEG data plotting on desktop, optional)  
+- **PyQt5** & **PyQtGraph** (EEG data plotting on desktop, optional)
+https://www.pyqtgraph.org/
 - **asyncio, numpy**  
 
 
