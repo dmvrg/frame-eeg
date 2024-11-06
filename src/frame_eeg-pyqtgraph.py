@@ -41,7 +41,7 @@ state_deques = {"Relaxation": deque([0] * 100, maxlen=100),
                 "Stress": deque([0] * 100, maxlen=100), 
                 "Drowsiness": deque([0] * 100, maxlen=100)}
 
-# Set up PyQtGraph with an explicit layout
+# PyQtGraph layout setup
 app = QtWidgets.QApplication(sys.argv)
 win = pg.GraphicsLayoutWidget(show=True, title="Frame EEG")
 win.resize(1200, 1000)
