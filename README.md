@@ -10,6 +10,8 @@ During streaming, the user can toggle between viewing band powers and mental sta
 
 ![Preview](preview.gif)
 
+<br>
+
 ## Hardware
 
  - **Brilliant Labs’ Frame AI glasses**  
@@ -20,6 +22,8 @@ https://docs.brilliant.xyz/
 - **Desktop or laptop computer** with Bluetooth connectivity
 
 Tested with Muse 2 and Muse S; theoretically compatible with any EEG device supported by BrainFlow's board-agnostic API.
+
+<br>
 
 ## Dependencies
 
@@ -32,6 +36,7 @@ https://brainflow.org/
 https://www.pyqtgraph.org/
 - **asyncio, numpy**  
 
+<br>
 
 ## Installation
 
@@ -51,6 +56,8 @@ https://www.pyqtgraph.org/
    
 `frame_eeg-basic.py` : basic stream to Frame (no desktop visualization)  
 `frame_eeg-pyqtgraph.py`  : stream and additional visualization on desktop with PyQtGraph
+
+<br>
 
 ## Mental States
 
