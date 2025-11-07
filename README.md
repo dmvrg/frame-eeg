@@ -8,6 +8,8 @@ This simple proof-of-concept test provides real-time EEG band power (Delta, Thet
 
 During streaming, the user can toggle between viewing band powers and mental state estimations with a single tap on the temple of the glasses. This basic setup provides both wearable and desktop interfaces for real-time cognitive state monitoring.
 
+![Preview](preview.gif)
+
 ## Hardware
 
  - **Brilliant Labs’ Frame AI glasses**  
